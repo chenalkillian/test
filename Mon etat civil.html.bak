@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title> Avant</title>
+  <title>Titre de la page</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Mon état civil </h1>
+	
+	
+	
+	
+	
+<p>
+	<p1>Nom</p1><p4>:CHENAL</p4> </br>
+	<p1>Prénom</p1><p4>: Killian</p4></br>
+	<p1>Adresse</p1>:<p4> 17 rue st.Antoine à Bélvèdere 06450</p4></br>
+	<p1>Numéro de téléphone</p1>:<p4> 06 83 45 81 54</p4></br>
+	<p1>E-mail</p1>: killianc142@gmail.com </br>
+	
+
+
+
+</p>
+
+
+
+
+
+</body> 
+</html> 
